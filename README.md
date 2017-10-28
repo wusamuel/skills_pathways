@@ -1,5 +1,11 @@
-# skills_pathways
+# MAESD Skills Pathways
 
+This github repo is for organizing our team's work on the MAESD Student Pathways competition available here: https://studentpathwayschallenge.ca/ 
+
+Will be making commits to this repo over the next 6 weeks.
+
+#Project Template Documentation 
+ 
 Welcome to ProjectTemplate!
 
 This file introduces you to ProjectTemplate, but you should eventually replace
